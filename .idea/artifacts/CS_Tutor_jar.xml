@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS-Tutor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS_Tutor_jar</output-path>
+    <root id="archive" name="CS-Tutor.jar">
+      <element id="module-output" name="CS-Tutor" />
+    </root>
+  </artifact>
+</component>
