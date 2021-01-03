@@ -13,6 +13,12 @@ made to be easy to understand for newcomers to java development. If you are a ne
 covered in this project are in no means a proper order to learn java development. You can expect that it will be within a
 reasonable order (as I will add more as I learn in later months and years, which will get added to the end of the list).
 
+## How to Use
+Go to releases on the right side
+Download jar
+Run jar
+
+Note: Jar is built in Java 14
 
 ## Update Description:
 - Fix: Often just bug/format fixing. Optimizations can be including in here.
