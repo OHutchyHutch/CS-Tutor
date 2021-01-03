@@ -14,9 +14,9 @@ covered in this project are in no means a proper order to learn java development
 reasonable order (as I will add more as I learn in later months and years, which will get added to the end of the list).
 
 ## How to Use
-Go to releases on the right side
-Download jar
-Run jar
+- Go to releases on the right side
+- Download jar
+- Run jar
 
 Note: Jar is built in Java 14
 
